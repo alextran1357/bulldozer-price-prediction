@@ -27,4 +27,4 @@ Note: The goal for most regression evaluation metrics is to minimize the error. 
 
 ## 4. Features
 
-Kaggle provides a data dictionary detailing all of the features of the dataset. You can view this data dictionary on Google Sheets: https://drive.google.com/file/d/173LluPuMat2OwQiUcKx8mBgsvlQ5w2qI/view?usp=sharing
+Kaggle provides a data dictionary detailing all of the features of the dataset. 
